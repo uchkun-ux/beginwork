@@ -1,2 +1,2 @@
 # beginwork
-Its my first work use pure HTML CSS
+Its my first work use pure HTML CSS in ProWEB school
